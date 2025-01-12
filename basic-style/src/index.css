@@ -1,0 +1,25 @@
+*{
+  box-sizing:border-box ;
+
+}
+
+body{
+  background-color: rgb(107,181,52);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h1{
+  font-family: sans-serif;
+  border: 2px solid white;
+  padding: 20px;
+  box-shadow: rgba(0, 0, 0, 0.75) 0px 10px 15px;
+}
+
+.fb{
+  color: rgb(107,181,52);
+  background-color: rgb(19, 15, 15);
+  box-shadow: rgba(0, 0, 0, 0.75) 0px 10px 15px;
+}
